@@ -29,6 +29,8 @@ distributions use is another story. This is a list for the 50 most used ones as 
 *   [Elementary][elementary]
     *   [Bazaar][elementarybazaar] repository hosted on
         [launchpad.net][launchpad]
+*   [Mangeia][mangeia]
+    *   [Git][mangeiagit] repository hosted on [mangeia.org][mangeia]
 
 ## BSD
 *   [FreeBSD][freebsd]
@@ -72,6 +74,8 @@ distributions use is another story. This is a list for the 50 most used ones as 
 [archsvn]: https://www.archlinux.org/svn/
 [elementary]: https://elementary.io/
 [elementarybazaar]: https://launchpad.net/elementary
+[mangeia]: http://www.mageia.org/
+[mangeiagit]: http://gitweb.mageia.org/
 
 [freebsd]: https://www.freebsd.org/
 [freebsdgit]: https://github.com/freebsd
