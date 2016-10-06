@@ -1,11 +1,11 @@
-# Version Control System used on OS's
+# Version control system used on OS's
 
 ## Linux
 The [Linux kernel][kernel], as is well known, uses Git for it's version
 system, in fact that was one of the main reasons Git was created in the first
 place, to help organize the development of the kernel. Currently the
 repository is hosted on [kernel.org][kernelgit]. Now, which VCS the
-distributions use is another story. This is a list for the 50 most used ones as listed on [DistroWatch][1].
+distributions use is another story. This is a list for the 50 most used ones as listed on [DistroWatch][distrowatch].
 
 *   [Mint][mint]
     *   [GitHub][mintgit] repository
@@ -44,41 +44,42 @@ distributions use is another story. This is a list for the 50 most used ones as 
     *   [CVS][midnightbsdcvs] repository hosted under
         [midnightbsd.org][midnightbsd]
 
-[1]:(https://distrowatch.com/dwres.php?resource=popularity)
 
-[kernel]: (https://www.kernel.org/)
-[kernelgit]: (https://git.kernel.org/cgit/)
+[distrowatch]: https://distrowatch.com/dwres.php?resource=popularity
 
-[mint]: (https://www.linuxmint.com/)
-[mintgit]: (https://github.com/linuxmint)
-[debian]: (https://www.debian.org/)
-[debiangit]: (https://anonscm.debian.org/cgit/qa/debsources.git)
-[ubuntu]: (https://www.ubuntu.com/)
-[opensuse]: (https://www.opensuse.org/)
-[opensusegit]: (https://github.com/openSUSE)
-[fedora]: (https://getfedora.org/)
-[fedoragit]: (http://pkgs.fedoraproject.org/cgit/rpms/)
-[manjaro]: (https://manjaro.org/)
-[manjarogit]: (https://github.com/manjaro)
-[centos]: (https://www.centos.org/)
-[centosgit]: (https://git.centos.org/project/rpms)
-[zorin]: (http://zorinos.com/)
-[zorinbazaar]: (https://launchpad.net/~zorin-os)
-[launchpad]: (https://launchpad.net/)
-[arch]: (https://www.archlinux.org/)
-[archgit]: (https://git.archlinux.org/)
-[archsvn]: (https://www.archlinux.org/svn/)
-[elementary]: (https://elementary.io/)
-[elementarybazaar]: (https://launchpad.net/elementary)
+[kernel]: https://www.kernel.org/
+[kernelgit]: https://git.kernel.org/cgit/
 
-[freebsd]: (https://www.freebsd.org/)
-[freebsdgit]: (https://github.com/freebsd)
-[freebsdsvn]: (https://svnweb.freebsd.org/)
-[ghostbsd]: (http://www.ghostbsd.org/)
-[ghostbsdgit]: (https://github.com/GhostBSD)
-[openbsd]: (http://www.openbsd.org/)
-[openbsdcvs]: (http://cvsweb.openbsd.org/cgi-bin/cvsweb/)
-[netbsd]: (http://www.netbsd.org/)
-[netbsdcvs]: (http://cvsweb.netbsd.org/bsdweb.cgi/)
-[midnightbsd]: (http://www.midnightbsd.org/)
-[midnightbsdcvs]: (http://www.midnightbsd.org/cgi-bin/viewvc.cgi/)
+[mint]: https://www.linuxmint.com/
+[mintgit]: https://github.com/linuxmint
+[debian]: https://www.debian.org/
+[debiangit]: https://anonscm.debian.org/cgit/qa/debsources.git
+[ubuntu]: https://www.ubuntu.com/
+[opensuse]: https://www.opensuse.org/
+[opensusegit]: https://github.com/openSUSE
+[fedora]: https://getfedora.org/
+[fedoragit]: http://pkgs.fedoraproject.org/cgit/rpms/
+[manjaro]: https://manjaro.org/
+[manjarogit]: https://github.com/manjaro
+[centos]: https://www.centos.org/
+[centosgit]: https://git.centos.org/project/rpms
+[zorin]: http://zorinos.com/
+[zorinbazaar]: https://launchpad.net/~zorin-os
+[launchpad]: https://launchpad.net/
+[arch]: https://www.archlinux.org/
+[archgit]: https://git.archlinux.org/
+[archsvn]: https://www.archlinux.org/svn/
+[elementary]: https://elementary.io/
+[elementarybazaar]: https://launchpad.net/elementary
+
+[freebsd]: https://www.freebsd.org/
+[freebsdgit]: https://github.com/freebsd
+[freebsdsvn]: https://svnweb.freebsd.org/
+[ghostbsd]: http://www.ghostbsd.org/
+[ghostbsdgit]: https://github.com/GhostBSD
+[openbsd]: http://www.openbsd.org/
+[openbsdcvs]: http://cvsweb.openbsd.org/cgi-bin/cvsweb/
+[netbsd]: http://www.netbsd.org/
+[netbsdcvs]: http://cvsweb.netbsd.org/bsdweb.cgi/
+[midnightbsd]: http://www.midnightbsd.org/
+[midnightbsdcvs]: http://www.midnightbsd.org/cgi-bin/viewvc.cgi/
