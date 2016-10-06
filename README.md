@@ -12,7 +12,7 @@ distributions use is another story. This is a list for the 50 most used ones as 
 *   [Debian][debian]
     *   [Git][debiangit] repository hosted on [debian.org][debian]
 *   [Ubuntu][ubuntu]
-    *   TODO
+    *   [Bazaar][ubuntubazaar] repository hosted on [launchpad.net][launchpad]
 *   [openSUSE][opensuse]
     *   [GitHub][opensusegit] repository
 *   [Fedora][fedora]
@@ -55,6 +55,7 @@ distributions use is another story. This is a list for the 50 most used ones as 
 [debian]: https://www.debian.org/
 [debiangit]: https://anonscm.debian.org/cgit/qa/debsources.git
 [ubuntu]: https://www.ubuntu.com/
+[ubuntubazaar]: https://launchpad.net/ubuntu
 [opensuse]: https://www.opensuse.org/
 [opensusegit]: https://github.com/openSUSE
 [fedora]: https://getfedora.org/
