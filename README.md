@@ -34,6 +34,14 @@ distributions use is another story. This is a list for the 50 most used ones as 
 *   [Deepin][deepin]
     *   [Git repository][deepingit] hosted on [deepin.io](http://deepin.io/)
         with a [GitHub mirror][deepingithub]
+*   [Android-x86][androidx86]
+    *   [Git repository][androidx86git] hosted on [sourceforge.net][sourceforge]
+*   [PCLinuxOS][pclinuxos]
+    *   TODO
+*   [Ubuntu Mate][ubuntumate]
+    *   [Bazaar repository][ubuntumatebazaar] hosted on
+        [launchpad.org][launchpad], [Git repository][ubuntumategit] hosted on
+        [Bitbucket][bitbucket] and a [Github repository][ubuntumategithub]
 
 ## BSD
 *   [FreeBSD][freebsd]
@@ -82,6 +90,15 @@ distributions use is another story. This is a list for the 50 most used ones as 
 [deepin]: https://www.deepin.org/
 [deepingit]: https://cr.deepin.io/
 [deepingithub]: https://github.com/linuxdeepin
+[androidx86]: http://www.android-x86.org/
+[androidx86git]: https://sourceforge.net/p/android-x86/_list/git
+[sourceforge]: https://sourceforge.net/
+[pclinuxos]: http://www.pclinuxos.com/
+[ubuntumate]: https://ubuntu-mate.org/
+[ubuntumatebazaar]: https://launchpad.net/ubuntu-mate/
+[ubuntumategit]: https://bitbucket.org/ubuntu-mate/
+[bitbucket]: https://bitbucket.org/
+[ubuntumategithub]: https://github.com/mate-desktop/
 
 [freebsd]: https://www.freebsd.org/
 [freebsdgit]: https://github.com/freebsd
