@@ -8,42 +8,42 @@ repository is hosted on [kernel.org][kernelgit]. Now, which VCS the
 distributions use is another story. This is a list for the 50 most used ones as listed on [DistroWatch][distrowatch].
 
 *   [Mint][mint]
-    *   [GitHub][mintgit] repository
+    *   [GitHub repository][mintgit]
 *   [Debian][debian]
-    *   [Git][debiangit] repository hosted on [debian.org][debian]
+    *   [Git repository][debiangit] hosted on [debian.org][debian]
 *   [Ubuntu][ubuntu]
-    *   [Bazaar][ubuntubazaar] repository hosted on [launchpad.net][launchpad]
+    *   [Bazaar repository][ubuntubazaar] hosted on [launchpad.net][launchpad]
 *   [openSUSE][opensuse]
-    *   [GitHub][opensusegit] repository
+    *   [GitHub repository][opensusegit]
 *   [Fedora][fedora]
-    *   [Git][fedoragit] repository hosted on [fedoraproject.org][fedora]
+    *   [Git repository][fedoragit] hosted on [fedoraproject.org][fedora]
 *   [Manjaro][manjaro]
-    *   [GitHub][manjarogit] repository
+    *   [GitHub repository][manjarogit]
 *   [CentOS][centos]
-    *   [Git][centosgit] repository hosted on [centos.org][centos]
+    *   [Git repository][centosgit] hosted on [centos.org][centos]
 *   [Zorin][zorin]
-    *   [Bazaar][zorinbazaar] repository hosted on [launchpad.net][launchpad]
+    *   [Bazaar repository][zorinbazaar] hosted on [launchpad.net][launchpad]
 *   [Arch][arch]
     *   [Git][archgit] and [SVN][archsvn] repositories hosted on
         [archlinux.org][arch]
 *   [Elementary][elementary]
-    *   [Bazaar][elementarybazaar] repository hosted on
+    *   [Bazaar repository][elementarybazaar] hosted on
         [launchpad.net][launchpad]
 *   [Mangeia][mangeia]
-    *   [Git][mangeiagit] repository hosted on [mangeia.org][mangeia]
+    *   [Git  repository][mangeiagit] hosted on [mangeia.org][mangeia]
 
 ## BSD
 *   [FreeBSD][freebsd]
     *   There are both [GitHub][freebsdgit] and [SVN][freebsdsvn]
         repositories. [SVN][freebsdsvn] is hosted under [freebsd.org][freebsd]
 *   [GhostBSD][ghostbsd]
-    *   [GitHub][ghostbsdgit] repository
+    *   [GitHub repository][ghostbsdgit]
 *   [OpenBSD][openbsd]
-    *   [CVS][openbsdcvs] repository hosted under [openbsd.org][openbsd]
+    *   [CVS repository][openbsdcvs] hosted under [openbsd.org][openbsd]
 *   [NetBSD][netbsd]
-    *   [CVS][netbsdcvs] repository hosted under [netbsd.org][netbsd]
+    *   [CVS repository][netbsdcvs] hosted under [netbsd.org][netbsd]
 *   [MidnightBSD][midnightbsd]
-    *   [CVS][midnightbsdcvs] repository hosted under
+    *   [CVS repository][midnightbsdcvs] hosted under
         [midnightbsd.org][midnightbsd]
 
 
