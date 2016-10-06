@@ -3,9 +3,9 @@
 ## Linux
 The [Linux kernel][kernel], as is well known, uses Git for it's version
 system, in fact that was one of the main reasons Git was created in the first
-place, to help organize the development of the kernel. Currently the
-repository is hosted on [kernel.org][kernelgit]. Now, which VCS the
-distributions use is another story. This is a list for the 50 most used ones as listed on [DistroWatch][distrowatch].
+place. Currently the repository is hosted on [kernel.org][kernelgit]. Now, which
+VCS's the distributions use is another story. This is a list for the 50 most
+used ones as listed on [DistroWatch][distrowatch].
 
 *   [Mint][mint]
     *   [GitHub repository][mintgit]
