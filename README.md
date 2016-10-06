@@ -1,4 +1,4 @@
-# Version control system used on OS's
+# Operating Systems and their VCS's
 
 ## Linux
 The [Linux kernel][kernel], as is well known, uses Git for it's version
