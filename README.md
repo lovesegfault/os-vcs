@@ -31,6 +31,9 @@ distributions use is another story. This is a list for the 50 most used ones as 
         [launchpad.net][launchpad]
 *   [Mangeia][mangeia]
     *   [Git  repository][mangeiagit] hosted on [mangeia.org][mangeia]
+*   [Deepin][deepin]
+    *   [Git repository][deepingit] hosted on [deepin.io](http://deepin.io/)
+        with a [GitHub mirror][deepingithub]
 
 ## BSD
 *   [FreeBSD][freebsd]
@@ -76,6 +79,9 @@ distributions use is another story. This is a list for the 50 most used ones as 
 [elementarybazaar]: https://launchpad.net/elementary
 [mangeia]: http://www.mageia.org/
 [mangeiagit]: http://gitweb.mageia.org/
+[deepin]: https://www.deepin.org/
+[deepingit]: https://cr.deepin.io/
+[deepingithub]: https://github.com/linuxdeepin
 
 [freebsd]: https://www.freebsd.org/
 [freebsdgit]: https://github.com/freebsd
