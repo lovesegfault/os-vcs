@@ -14,7 +14,8 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 | [Deepin][deepin] | Git | [deepin.io][deepingit], [GitHub mirror][deepingithub] |
 | [Elementary][elementary] | Bazaar | [Launchpad][elementarybazaar] |
 | [Fedora][fedora] | Git | [fedoraproject.org][fedoragit] |
-| [Kali][kali] | Git | [kali.org][kaligit]
+| [Kali][kali] | Git | [kali.org][kaligit] |
+| [KaOS][kaos] | Git | [GitHub][kaosgithub] |
 | [Linux Lite][lite] | Git | [GitHub][litegithub]
 | [Lubuntu][lubuntu] | Bazaar | [Lauchpad][lubuntubazaar] |
 | [Mangeia][mangeia] | Git | [mangeia.org][mangeiagit] |
@@ -43,6 +44,7 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 
 ## TODOs
 
+*   [Black Lab Linux][blacklab]
 *   [LXLE][lxle]
 *   [PCLinuxOS][pclinuxos]
 *   [PuppyLinux][puppy]
@@ -62,6 +64,7 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 [arch]: https://www.archlinux.org/
 [archgit]: https://git.archlinux.org/
 [archsvn]: https://www.archlinux.org/svn/
+[blacklab]: http://www.blacklablinux.org/
 [centos]: https://www.centos.org/
 [centosgit]: https://git.centos.org/project/rpms
 [debian]: https://www.debian.org/
@@ -75,6 +78,8 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 [fedoragit]: http://pkgs.fedoraproject.org/cgit/rpms/
 [kali]: https://www.kali.org/
 [kaligit]: http://git.kali.org/gitweb/
+[kaos]: https://kaosx.us/
+[kaosgithub]: https://github.com/KaOSx
 [lite]: https://www.linuxliteos.com/
 [litegithub]: https://github.com/linuxlite
 [lubuntu]: http://lubuntu.me/
