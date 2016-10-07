@@ -24,6 +24,7 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 | [Mint][mint] | Git | [GitHub][mintgit] |
 | [Netrunner][netrunner] | Bazaar | [Launchpad][netrunnerbazaar] |
 | [openSUSE][opensuse] | Git | [GitHub][opensusegit] |
+| [Peppermint][peppermint] | Bazaar | [Launchpad][peppermintbazaar] |
 | [ReactOS][reactos] | Jira | [reactos.org][reactosjira], [Git mirror][reactosgit] |
 | [Solus][solus] | Git | [solus-project.com][solusgit] |
 | [Tails][tails] | Git | [immerda.ch][tailsgit]
@@ -47,11 +48,17 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 ## TODOs
 
 *   [Black Lab Linux][blacklab]
+*   [Cub Linux][cub]
+*   [Gentoo][gentoo]
+*   [Kubuntu][kubuntu]
 *   [LXLE][lxle]
 *   [PCLinuxOS][pclinuxos]
 *   [PuppyLinux][puppy]
+*   [Q4OS][q4os]
+*   [Sabayon][sabayon]
 *   [Simplicity Linux][simplicity]
 *   [Slackware][slackware]
+*   [SparkyLinux][sparky]
 
 [kernel]: https://www.kernel.org/
 [kernelgit]: https://git.kernel.org/cgit/
@@ -71,6 +78,7 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 [bodhisrc]: http://www.bodhilinux.com/w/source-code/
 [centos]: https://www.centos.org/
 [centosgit]: https://git.centos.org/project/rpms
+[cub]: https://cublinux.com/
 [debian]: https://www.debian.org/
 [deepin]: https://www.deepin.org/
 [debiangit]: https://anonscm.debian.org/cgit/qa/debsources.git
@@ -80,10 +88,12 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 [elementarybazaar]: https://launchpad.net/elementary
 [fedora]: https://getfedora.org/
 [fedoragit]: http://pkgs.fedoraproject.org/cgit/rpms/
+[gentoo]: https://www.gentoo.org/
 [kali]: https://www.kali.org/
 [kaligit]: http://git.kali.org/gitweb/
 [kaos]: https://kaosx.us/
 [kaosgithub]: https://github.com/KaOSx
+[kubuntu]: http://www.kubuntu.org/
 [lite]: https://www.linuxliteos.com/
 [litegithub]: https://github.com/linuxlite
 [lubuntu]: http://lubuntu.me/
@@ -100,14 +110,19 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 [opensuse]: https://www.opensuse.org/
 [opensusegit]: https://github.com/openSUSE
 [pclinuxos]: http://www.pclinuxos.com/
+[peppermint]: https://peppermintos.com/
+[peppermintbazaar]: https://launchpad.net/~peppermintos
 [puppy]: http://puppylinux.org/
+[q4os]: http://q4os.org/
 [reactos]: http://www.reactos.org/
 [reactosjira]: https://jira.reactos.org/secure/Dashboard.jspa
 [reactosgit]: https://git.reactos.org/
+[sabayon]: http://www.sabayon.org/
 [simplicity]: http://simplicitylinux.org/
 [slackware]: http://www.slackware.com/
 [solus]: https://solus-project.com/
 [solusgit]: https://git.solus-project.com/
+[sparky]: http://sparkylinux.org/
 [tails]: https://tails.boum.org/
 [tailsgit]: https://git-tails.immerda.ch/tails/
 [ubuntu]: https://www.ubuntu.com/
