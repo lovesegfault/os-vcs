@@ -1,68 +1,41 @@
-# Operating Systems and their VCS's
+# Operating Systems and their VCSs
 
 ## Linux
-The [Linux kernel][kernel], as is well known, uses Git for it's version
-system, in fact that was one of the main reasons Git was created in the first
-place. Currently the repository is hosted on [kernel.org][kernelgit]. Now, which
-VCS's the distributions use is another story. This is a list for the 50 most
-used ones as listed on [DistroWatch][distrowatch].
+The [Linux kernel][kernel], as is well known, uses Git for its version control system (VCS), in fact that was one of the main reasons Git was created in the first place. Currently, the repository is hosted on [kernel.org][kernelgit]. Now, which VCSs the distributions use is another story. This is a list for the 50 most popular ones as listed on [DistroWatch][distrowatch].
 
-*   [Mint][mint]
-    *   [GitHub repository][mintgit]
-*   [Debian][debian]
-    *   [Git repository][debiangit] hosted on [debian.org][debian]
-*   [Ubuntu][ubuntu]
-    *   [Bazaar repository][ubuntubazaar] hosted on [launchpad.net][launchpad]
-*   [openSUSE][opensuse]
-    *   [GitHub repository][opensusegit]
-*   [Fedora][fedora]
-    *   [Git repository][fedoragit] hosted on [fedoraproject.org][fedora]
-*   [Manjaro][manjaro]
-    *   [GitHub repository][manjarogit]
-*   [CentOS][centos]
-    *   [Git repository][centosgit] hosted on [centos.org][centos]
-*   [Zorin][zorin]
-    *   [Bazaar repository][zorinbazaar] hosted on [launchpad.net][launchpad]
-*   [Arch][arch]
-    *   [Git][archgit] and [SVN][archsvn] repositories hosted on
-        [archlinux.org][arch]
-*   [Elementary][elementary]
-    *   [Bazaar repository][elementarybazaar] hosted on
-        [launchpad.net][launchpad]
-*   [Mangeia][mangeia]
-    *   [Git  repository][mangeiagit] hosted on [mangeia.org][mangeia]
-*   [Deepin][deepin]
-    *   [Git repository][deepingit] hosted on [deepin.io](http://deepin.io/)
-        with a [GitHub mirror][deepingithub]
-*   [Android-x86][androidx86]
-    *   [Git repository][androidx86git] hosted on [sourceforge.net][sourceforge]
-*   [PCLinuxOS][pclinuxos]
-    *   TODO
-*   [Ubuntu Mate][ubuntumate]
-    *   [Bazaar repository][ubuntumatebazaar] hosted on
-        [launchpad.org][launchpad], [Git repository][ubuntumategit] hosted on
-        [Bitbucket][bitbucket] and a [Github repository][ubuntumategithub]
+| Operating System | Version Control System | Hosting Location |
+| --- | --- | --- |
+| [Android-x86][androidx86] | [Git][androidx86git] | [sourceforge.net][sourceforge] |
+| [Arch][arch] | [Git][archgit] and [SVN][archsvn] | [archlinux.org][arch] |
+| [CentOS][centos] | [Git][centosgit] | [centos.org][centos] |
+| [Debian][debian] | [Git][debiangit] | [debian.org][debian] |
+| [Deepin][deepin] | [Git][deepingit] | [deepin.io](http://deepin.io/) with a [GitHub mirror][deepingithub] |
+| [Elementary][elementary] | [Bazaar][elementarybazaar] | [launchpad.net][launchpad] |
+| [Fedora][fedora] | [Git][fedoragit] | [fedoraproject.org][fedora] |
+| [Mangeia][mangeia] | [Git][mangeiagit] | [mangeia.org][mangeia] |
+| [Manjaro][manjaro] | Git | [GitHub repository][manjarogit] |
+| [Mint][mint] | Git | [GitHub repository][mintgit] |
+| [openSUSE][opensuse] | Git | [GitHub repository][opensusegit] |
+| [PCLinuxOS][pclinuxos] | TODO | |
+| [Ubuntu][ubuntu] | [Bazaar][ubuntubazaar] | [launchpad.net][launchpad] |
+| [Ubuntu Mate][ubuntumate] | [Bazaar][ubuntumatebazaar] and [Git][ubuntumategit] | [launchpad.org][launchpad], [Bitbucket][bitbucket] and [Github][ubuntumategithub] |
+| [Zorin][zorin] | [Bazaar][zorinbazaar] | [launchpad.net][launchpad] |
 
 ## BSD
-*   [FreeBSD][freebsd]
-    *   There are both [GitHub][freebsdgit] and [SVN][freebsdsvn]
-        repositories. [SVN][freebsdsvn] is hosted under [freebsd.org][freebsd]
-*   [GhostBSD][ghostbsd]
-    *   [GitHub repository][ghostbsdgit]
-*   [OpenBSD][openbsd]
-    *   [CVS repository][openbsdcvs] hosted under [openbsd.org][openbsd]
-*   [NetBSD][netbsd]
-    *   [CVS repository][netbsdcvs] hosted under [netbsd.org][netbsd]
-*   [MidnightBSD][midnightbsd]
-    *   [CVS repository][midnightbsdcvs] hosted under
-        [midnightbsd.org][midnightbsd]
+
+| Operating System | Version Control System | Hosting Location |
+| --- | --- | --- |
+| [FreeBSD][freebsd] | Git and [SVN][freebsdsvn] | [GitHub][freebsdgit] and [freebsd.org][freebsd] |
+| [GhostBSD][ghostbsd] | Git | [GitHub][ghostbsdgit] |
+| [OpenBSD][openbsd] | [CVS][openbsdcvs] | [openbsd.org][openbsd] |
+| [MidnightBSD][midnightbsd] | [CVS][midnightbsdcvs] | [midnightbsd.org][midnightbsd] |
+| [NetBSD][netbsd] | [CVS][netbsdcvs] | [netbsd.org][netbsd] |
 
 
+## TO-DOs
 [distrowatch]: https://distrowatch.com/dwres.php?resource=popularity
-
 [kernel]: https://www.kernel.org/
 [kernelgit]: https://git.kernel.org/cgit/
-
 [mint]: https://www.linuxmint.com/
 [mintgit]: https://github.com/linuxmint
 [debian]: https://www.debian.org/
@@ -99,7 +72,6 @@ used ones as listed on [DistroWatch][distrowatch].
 [ubuntumategit]: https://bitbucket.org/ubuntu-mate/
 [bitbucket]: https://bitbucket.org/
 [ubuntumategithub]: https://github.com/mate-desktop/
-
 [freebsd]: https://www.freebsd.org/
 [freebsdgit]: https://github.com/freebsd
 [freebsdsvn]: https://svnweb.freebsd.org/
