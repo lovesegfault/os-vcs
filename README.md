@@ -1,7 +1,7 @@
 # Operating Systems and their VCSs
 
 ## Linux
-The [Linux kernel][kernel], as is well known, uses Git for its version control system (VCS), in fact that was one of the main reasons Git was created in the first place. Currently, the repository is hosted on [kernel.org][kernelgit]. Now, which VCSs the distributions use is another story. This is a list for the 50 most popular ones as listed on [DistroWatch][distrowatch].
+The [Linux kernel][kernel] uses Git for its version control system (VCS), in fact that was one of the main reasons Git was created in the first place. Currently, the repository is hosted on [kernel.org][kernelgit]. Now, which VCSs the distributions use is another story. This is a list for the 50 most popular ones as listed on [DistroWatch][distrowatch].
 
 | Operating System | Version Control System | Hosting Location |
 | ---------------- | ---------------------- | ---------------- |
@@ -21,9 +21,12 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 | [Manjaro][manjaro] | Git | [GitHub][manjarogit] |
 | [Mint][mint] | Git | [GitHub][mintgit] |
 | [openSUSE][opensuse] | Git | [GitHub][opensusegit] |
+| [ReactOS][reactos] | Jira | [reactos.org][reactosjira], [Git mirror][reactosgit] |
+| [Solus][solus] | Git | [solus-project.com][solusgit] |
 | [Tails][tails] | Git | [immerda.ch][tailsgit]
 | [Ubuntu][ubuntu] | Bazaar | [Launchpad][ubuntubazaar] |
 | [Ubuntu Mate][ubuntumate] | Bazaar, Git | [Launchpad][ubuntumatebazaar], [Bitbucket][ubuntumategit], [GitHub][ubuntumategithub] |
+| [Xubuntu][xubuntu] | Bazaar | [Lauchpad][xubuntubazaar] |
 | [Zorin][zorin] | Bazaar | [Launchpad][zorinbazaar] |
 
 ## BSD
@@ -43,6 +46,7 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 *   [LXLE][lxle]
 *   [PCLinuxOS][pclinuxos]
 *   [PuppyLinux][puppy]
+*   [Simplicity Linux][simplicity]
 *   [Slackware][slackware]
 
 [kernel]: https://www.kernel.org/
@@ -86,7 +90,13 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 [opensusegit]: https://github.com/openSUSE
 [pclinuxos]: http://www.pclinuxos.com/
 [puppy]: http://puppylinux.org/
+[reactos]: http://www.reactos.org/
+[reactosjira]: https://jira.reactos.org/secure/Dashboard.jspa
+[reactosgit]: https://git.reactos.org/
+[simplicity]: http://simplicitylinux.org/
 [slackware]: http://www.slackware.com/
+[solus]: https://solus-project.com/
+[solusgit]: https://git.solus-project.com/
 [tails]: https://tails.boum.org/
 [tailsgit]: https://git-tails.immerda.ch/tails/
 [ubuntu]: https://www.ubuntu.com/
@@ -95,6 +105,8 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 [ubuntumatebazaar]: https://launchpad.net/ubuntu-mate/
 [ubuntumategit]: https://bitbucket.org/ubuntu-mate/
 [ubuntumategithub]: https://github.com/mate-desktop/
+[xubuntu]: http://xubuntu.org/
+[xubuntubazaar]: https://launchpad.net/~xubuntu-council
 [zorin]: http://zorinos.com/
 [zorinbazaar]: https://launchpad.net/~zorin-os
 
