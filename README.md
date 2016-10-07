@@ -15,6 +15,7 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 | [Deepin][deepin] | Git | [deepin.io][deepingit], [GitHub mirror][deepingithub] |
 | [Elementary][elementary] | Bazaar | [Launchpad][elementarybazaar] |
 | [Fedora][fedora] | Git | [fedoraproject.org][fedoragit] |
+| [Gentoo][gentoo] | Git, CVS | [gentoo.org][gentoogit], [GitHub mirror][gentoogithub] |
 | [Kali][kali] | Git | [kali.org][kaligit] |
 | [KaOS][kaos] | Git | [GitHub][kaosgithub] |
 | [Linux Lite][lite] | Git | [GitHub][litegithub]
@@ -25,7 +26,9 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 | [Netrunner][netrunner] | Bazaar | [Launchpad][netrunnerbazaar] |
 | [openSUSE][opensuse] | Git | [GitHub][opensusegit] |
 | [Peppermint][peppermint] | Bazaar | [Launchpad][peppermintbazaar] |
+| [Q4OS][q4os] | Git | [Sourceforge][q4osgit] |
 | [ReactOS][reactos] | Jira | [reactos.org][reactosjira], [Git mirror][reactosgit] |
+| [Sabayon][sabayon] | Git | [GitHub][sabayongithub]
 | [Solus][solus] | Git | [solus-project.com][solusgit] |
 | [Tails][tails] | Git | [immerda.ch][tailsgit]
 | [Ubuntu][ubuntu] | Bazaar | [Launchpad][ubuntubazaar] |
@@ -49,13 +52,10 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 
 *   [Black Lab Linux][blacklab]
 *   [Cub Linux][cub]
-*   [Gentoo][gentoo]
 *   [Kubuntu][kubuntu]
 *   [LXLE][lxle]
 *   [PCLinuxOS][pclinuxos]
 *   [PuppyLinux][puppy]
-*   [Q4OS][q4os]
-*   [Sabayon][sabayon]
 *   [Simplicity Linux][simplicity]
 *   [Slackware][slackware]
 *   [SparkyLinux][sparky]
@@ -89,6 +89,8 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 [fedora]: https://getfedora.org/
 [fedoragit]: http://pkgs.fedoraproject.org/cgit/rpms/
 [gentoo]: https://www.gentoo.org/
+[gentoogit]: https://gitweb.gentoo.org/
+[gentoogithub]: https://github.com/gentoo/
 [kali]: https://www.kali.org/
 [kaligit]: http://git.kali.org/gitweb/
 [kaos]: https://kaosx.us/
@@ -114,10 +116,12 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 [peppermintbazaar]: https://launchpad.net/~peppermintos
 [puppy]: http://puppylinux.org/
 [q4os]: http://q4os.org/
+[q4osgit]: https://sourceforge.net/p/q4os/_list/git
 [reactos]: http://www.reactos.org/
 [reactosjira]: https://jira.reactos.org/secure/Dashboard.jspa
 [reactosgit]: https://git.reactos.org/
 [sabayon]: http://www.sabayon.org/
+[sabayongithub]: https://github.com/Sabayon
 [simplicity]: http://simplicitylinux.org/
 [slackware]: http://www.slackware.com/
 [solus]: https://solus-project.com/
