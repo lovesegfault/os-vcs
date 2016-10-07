@@ -36,7 +36,7 @@ as listed on [DistroWatch][distrowatch].
 | [Tails][tails] | Git | [immerda.ch][tailsgit]
 | [Ubuntu][ubuntu] | Bazaar | [Launchpad][ubuntubazaar] |
 | [Ubuntu Mate][ubuntumate] | Bazaar, Git | [Launchpad][ubuntumatebazaar], [Bitbucket][ubuntumategit], [GitHub][ubuntumategithub] |
-| [Xubuntu][xubuntu] | Bazaar | [Lauchpad][xubuntubazaar] |
+| [Xubuntu][xubuntu] | Bazaar | [Launchpad][xubuntubazaar] |
 | [Zorin][zorin] | Bazaar | [Launchpad][zorinbazaar] |
 
 ## BSD
