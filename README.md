@@ -5,89 +5,90 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 
 | Operating System | Version Control System | Hosting Location |
 | ---------------- | ---------------------- | ---------------- |
-| [Android-x86][androidx86] | [Git][androidx86git] | [sourceforge.net][sourceforge] |
-| [Arch][arch] | [Git][archgit] and [SVN][archsvn] | [archlinux.org][arch] |
-| [CentOS][centos] | [Git][centosgit] | [centos.org][centos] |
-| [Debian][debian] | [Git][debiangit] | [debian.org][debian] |
-| [Deepin][deepin] | [Git][deepingit] | [deepin.io](http://deepin.io/) with a [GitHub mirror][deepingithub] |
-| [Elementary][elementary] | [Bazaar][elementarybazaar] | [launchpad.net][launchpad] |
-| [Fedora][fedora] | [Git][fedoragit] | [fedoraproject.org][fedora] |
-| [Mangeia][mangeia] | [Git][mangeiagit] | [mangeia.org][mangeia] |
-| [Manjaro][manjaro] | Git | [GitHub repository][manjarogit] |
-| [Mint][mint] | Git | [GitHub repository][mintgit] |
-| [openSUSE][opensuse] | Git | [GitHub repository][opensusegit] |
-| [PCLinuxOS][pclinuxos] | TODO | TODO |
-| [Ubuntu][ubuntu] | [Bazaar][ubuntubazaar] | [launchpad.net][launchpad] |
-| [Ubuntu Mate][ubuntumate] | [Bazaar][ubuntumatebazaar] and [Git][ubuntumategit] | [launchpad.org][launchpad], [Bitbucket][bitbucket] and [Github][ubuntumategithub] |
-| [Zorin][zorin] | [Bazaar][zorinbazaar] | [launchpad.net][launchpad] |
+| [Android-x86][androidx86] | Git | [Sourceforge][androidx86git] |
+| [Arch][arch] | Git, SVN | [archlinux.org][arch] ([Git][archgit], [SVN][archsvn]) |
+| [CentOS][centos] | Git | [centos.org][centosgit] |
+| [Debian][debian] | Git | [debian.org][debiangit] |
+| [Deepin][deepin] | Git | [deepin.io][deepingit], [GitHub mirror][deepingithub] |
+| [Elementary][elementary] | Bazaar | [Launchpad][elementarybazaar] |
+| [Fedora][fedora] | Git | [fedoraproject.org][fedoragit] |
 | [LXLE][lxle]   | TODO | TODO |
+| [Mangeia][mangeia] | Git | [mangeia.org][mangeiagit] |
+| [Manjaro][manjaro] | Git | [GitHub][manjarogit] |
+| [Mint][mint] | Git | [GitHub][mintgit] |
+| [openSUSE][opensuse] | Git | [GitHub][opensusegit] |
+| [PCLinuxOS][pclinuxos] | TODO | TODO |
 | [PuppyLinux][puppy] | TODO | TODO |
 | [Slackware][slackware] | TODO | TODO |
+| [Ubuntu][ubuntu] | Bazaar | [Launchpad][ubuntubazaar] |
+| [Ubuntu Mate][ubuntumate] | Bazaar, Git | [Launchpad][ubuntumatebazaar], [Bitbucket][ubuntumategit], [Github][ubuntumategithub] |
+| [Zorin][zorin] | Bazaar | [Launchpad][zorinbazaar] |
+
+
 
 ## BSD
 
 | Operating System | Version Control System | Hosting Location |
 | ---------------- | ---------------------- | ---------------- |
-| [FreeBSD][freebsd] | Git and [SVN][freebsdsvn] | [GitHub][freebsdgit] and [freebsd.org][freebsd] |
+| [FreeBSD][freebsd] | Git and SVN | [GitHub][freebsdgit], [freebsd.org][freebsdsvn] |
 | [GhostBSD][ghostbsd] | Git | [GitHub][ghostbsdgit] |
-| [OpenBSD][openbsd] | [CVS][openbsdcvs] | [openbsd.org][openbsd] |
-| [MidnightBSD][midnightbsd] | [CVS][midnightbsdcvs] | [midnightbsd.org][midnightbsd] |
-| [NetBSD][netbsd] | [CVS][netbsdcvs] | [netbsd.org][netbsd] |
+| [MidnightBSD][midnightbsd] | CVS | [midnightbsd.org][midnightbsdcvs] |
+| [NetBSD][netbsd] | CVS | [netbsd.org][netbsdcvs] |
+| [OpenBSD][openbsd] | CVS | [openbsd.org][openbsdcvs] |
+
 
 
 ## TODOs
 
-[distrowatch]: https://distrowatch.com/dwres.php?resource=popularity
 [kernel]: https://www.kernel.org/
 [kernelgit]: https://git.kernel.org/cgit/
-[mint]: https://www.linuxmint.com/
-[mintgit]: https://github.com/linuxmint
-[debian]: https://www.debian.org/
-[debiangit]: https://anonscm.debian.org/cgit/qa/debsources.git
-[ubuntu]: https://www.ubuntu.com/
-[ubuntubazaar]: https://launchpad.net/ubuntu
-[opensuse]: https://www.opensuse.org/
-[opensusegit]: https://github.com/openSUSE
-[fedora]: https://getfedora.org/
-[fedoragit]: http://pkgs.fedoraproject.org/cgit/rpms/
-[manjaro]: https://manjaro.org/
-[manjarogit]: https://github.com/manjaro
-[centos]: https://www.centos.org/
-[centosgit]: https://git.centos.org/project/rpms
-[zorin]: http://zorinos.com/
-[zorinbazaar]: https://launchpad.net/~zorin-os
-[launchpad]: https://launchpad.net/
+[distrowatch]: https://distrowatch.com/dwres.php?resource=popularity
+
+[androidx86]: http://www.android-x86.org/
+[androidx86git]: https://sourceforge.net/p/android-x86/_list/git
 [arch]: https://www.archlinux.org/
 [archgit]: https://git.archlinux.org/
 [archsvn]: https://www.archlinux.org/svn/
-[elementary]: https://elementary.io/
-[elementarybazaar]: https://launchpad.net/elementary
-[mangeia]: http://www.mageia.org/
-[mangeiagit]: http://gitweb.mageia.org/
+[centos]: https://www.centos.org/
+[centosgit]: https://git.centos.org/project/rpms
+[debian]: https://www.debian.org/
 [deepin]: https://www.deepin.org/
+[debiangit]: https://anonscm.debian.org/cgit/qa/debsources.git
 [deepingit]: https://cr.deepin.io/
 [deepingithub]: https://github.com/linuxdeepin
-[androidx86]: http://www.android-x86.org/
-[androidx86git]: https://sourceforge.net/p/android-x86/_list/git
-[sourceforge]: https://sourceforge.net/
+[elementary]: https://elementary.io/
+[elementarybazaar]: https://launchpad.net/elementary
+[fedora]: https://getfedora.org/
+[fedoragit]: http://pkgs.fedoraproject.org/cgit/rpms/
+[lxle]: http://lxle.net/
+[mangeia]: http://www.mageia.org/
+[mangeiagit]: http://gitweb.mageia.org/
+[manjaro]: https://manjaro.org/
+[manjarogit]: https://github.com/manjaro
+[mint]: https://www.linuxmint.com/
+[mintgit]: https://github.com/linuxmint
+[opensuse]: https://www.opensuse.org/
+[opensusegit]: https://github.com/openSUSE
 [pclinuxos]: http://www.pclinuxos.com/
+[puppy]: http://puppylinux.org/
+[slackware]: http://www.slackware.com/
+[ubuntu]: https://www.ubuntu.com/
+[ubuntubazaar]: https://launchpad.net/ubuntu
 [ubuntumate]: https://ubuntu-mate.org/
 [ubuntumatebazaar]: https://launchpad.net/ubuntu-mate/
 [ubuntumategit]: https://bitbucket.org/ubuntu-mate/
-[bitbucket]: https://bitbucket.org/
 [ubuntumategithub]: https://github.com/mate-desktop/
-[lxle]: http://lxle.net/
-[puppy]: http://puppylinux.org/
-[slackware]: http://www.slackware.com/
+[zorin]: http://zorinos.com/
+[zorinbazaar]: https://launchpad.net/~zorin-os
 
 [freebsd]: https://www.freebsd.org/
 [freebsdgit]: https://github.com/freebsd
 [freebsdsvn]: https://svnweb.freebsd.org/
 [ghostbsd]: http://www.ghostbsd.org/
 [ghostbsdgit]: https://github.com/GhostBSD
-[openbsd]: http://www.openbsd.org/
-[openbsdcvs]: http://cvsweb.openbsd.org/cgi-bin/cvsweb/
-[netbsd]: http://www.netbsd.org/
-[netbsdcvs]: http://cvsweb.netbsd.org/bsdweb.cgi/
 [midnightbsd]: http://www.midnightbsd.org/
 [midnightbsdcvs]: http://www.midnightbsd.org/cgi-bin/viewvc.cgi/
+[netbsd]: http://www.netbsd.org/
+[netbsdcvs]: http://cvsweb.netbsd.org/bsdweb.cgi/
+[openbsd]: http://www.openbsd.org/
+[openbsdcvs]: http://cvsweb.openbsd.org/cgi-bin/cvsweb/
