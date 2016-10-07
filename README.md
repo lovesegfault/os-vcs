@@ -19,7 +19,7 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 | [Mint][mint] | Git | [GitHub][mintgit] |
 | [openSUSE][opensuse] | Git | [GitHub][opensusegit] |
 | [Ubuntu][ubuntu] | Bazaar | [Launchpad][ubuntubazaar] |
-| [Ubuntu Mate][ubuntumate] | Bazaar, Git | [Launchpad][ubuntumatebazaar], [Bitbucket][ubuntumategit], [Github][ubuntumategithub] |
+| [Ubuntu Mate][ubuntumate] | Bazaar, Git | [Launchpad][ubuntumatebazaar], [Bitbucket][ubuntumategit], [GitHub][ubuntumategithub] |
 | [Zorin][zorin] | Bazaar | [Launchpad][zorinbazaar] |
 
 ## BSD
