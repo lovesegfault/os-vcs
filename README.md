@@ -6,6 +6,7 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 | Operating System | Version Control System | Hosting Location |
 | ---------------- | ---------------------- | ---------------- |
 | [Android-x86][androidx86] | Git | [Sourceforge][androidx86git] |
+| [Antergos][antergos] | Git | [GitHub][antergosgithub] |
 | [Arch][arch] | Git, SVN | [archlinux.org][arch] ([Git][archgit], [SVN][archsvn]) |
 | [CentOS][centos] | Git | [centos.org][centosgit] |
 | [Debian][debian] | Git | [debian.org][debiangit] |
@@ -47,6 +48,8 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 
 [androidx86]: http://www.android-x86.org/
 [androidx86git]: https://sourceforge.net/p/android-x86/_list/git
+[antergos]: https://antergos.com/
+[antergosgithub]: https://github.com/antergos
 [arch]: https://www.archlinux.org/
 [archgit]: https://git.archlinux.org/
 [archsvn]: https://www.archlinux.org/svn/
