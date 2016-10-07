@@ -9,6 +9,7 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 | [Antergos][antergos] | Git | [GitHub][antergosgithub] |
 | [antiX][antix] | Git | [Sourceforge][antixgit] |
 | [Arch][arch] | Git, SVN | [archlinux.org][arch] ([Git][archgit], [SVN][archsvn]) |
+| [Bodhi Linux][bodhi] | Git | Various GitHub repos listen on [bodhilinux.com][bodhisrc] |
 | [CentOS][centos] | Git | [centos.org][centosgit] |
 | [Debian][debian] | Git | [debian.org][debiangit] |
 | [Deepin][deepin] | Git | [deepin.io][deepingit], [GitHub mirror][deepingithub] |
@@ -21,6 +22,7 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 | [Mangeia][mangeia] | Git | [mangeia.org][mangeiagit] |
 | [Manjaro][manjaro] | Git | [GitHub][manjarogit] |
 | [Mint][mint] | Git | [GitHub][mintgit] |
+| [Netrunner][netrunner] | Bazaar | [Launchpad][netrunnerbazaar] |
 | [openSUSE][opensuse] | Git | [GitHub][opensusegit] |
 | [ReactOS][reactos] | Jira | [reactos.org][reactosjira], [Git mirror][reactosgit] |
 | [Solus][solus] | Git | [solus-project.com][solusgit] |
@@ -65,6 +67,8 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 [archgit]: https://git.archlinux.org/
 [archsvn]: https://www.archlinux.org/svn/
 [blacklab]: http://www.blacklablinux.org/
+[bodhi]: http://www.bodhilinux.com/
+[bodhisrc]: http://www.bodhilinux.com/w/source-code/
 [centos]: https://www.centos.org/
 [centosgit]: https://git.centos.org/project/rpms
 [debian]: https://www.debian.org/
@@ -91,6 +95,8 @@ The [Linux kernel][kernel] uses Git for its version control system (VCS), in fac
 [manjarogit]: https://github.com/manjaro
 [mint]: https://www.linuxmint.com/
 [mintgit]: https://github.com/linuxmint
+[netrunner]: http://www.netrunner.com/
+[netrunnerbazaar]: https://launchpad.net/~netrunner-os
 [opensuse]: https://www.opensuse.org/
 [opensusegit]: https://github.com/openSUSE
 [pclinuxos]: http://www.pclinuxos.com/
