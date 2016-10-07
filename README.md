@@ -12,7 +12,7 @@ as listed on [DistroWatch][distrowatch].
 | [Antergos][antergos] | Git | [GitHub][antergosgithub] |
 | [antiX][antix] | Git | [Sourceforge][antixgit] |
 | [Arch][arch] | Git, SVN | [archlinux.org][arch] ([Git][archgit], [SVN][archsvn]) |
-| [Bodhi Linux][bodhi] | Git | Various GitHub repos listen on [bodhilinux.com][bodhisrc] |
+| [Bodhi Linux][bodhi] | Git | Various GitHub repos listed on [bodhilinux.com][bodhisrc] |
 | [CentOS][centos] | Git | [centos.org][centosgit] |
 | [ClearOS][clear] | Git, SVN (legacy) | [GitHub][cleargithub], [clearfoundation.com][clearsvn] |
 | [Debian][debian] | Git | [debian.org][debiangit] |
