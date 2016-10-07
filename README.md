@@ -4,7 +4,7 @@
 The [Linux kernel][kernel], as is well known, uses Git for its version control system (VCS), in fact that was one of the main reasons Git was created in the first place. Currently, the repository is hosted on [kernel.org][kernelgit]. Now, which VCSs the distributions use is another story. This is a list for the 50 most popular ones as listed on [DistroWatch][distrowatch].
 
 | Operating System | Version Control System | Hosting Location |
-| --- | --- | --- |
+| ---------------- | ---------------------- | ---------------- |
 | [Android-x86][androidx86] | [Git][androidx86git] | [sourceforge.net][sourceforge] |
 | [Arch][arch] | [Git][archgit] and [SVN][archsvn] | [archlinux.org][arch] |
 | [CentOS][centos] | [Git][centosgit] | [centos.org][centos] |
@@ -16,15 +16,18 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 | [Manjaro][manjaro] | Git | [GitHub repository][manjarogit] |
 | [Mint][mint] | Git | [GitHub repository][mintgit] |
 | [openSUSE][opensuse] | Git | [GitHub repository][opensusegit] |
-| [PCLinuxOS][pclinuxos] | TODO | |
+| [PCLinuxOS][pclinuxos] | TODO | TODO |
 | [Ubuntu][ubuntu] | [Bazaar][ubuntubazaar] | [launchpad.net][launchpad] |
 | [Ubuntu Mate][ubuntumate] | [Bazaar][ubuntumatebazaar] and [Git][ubuntumategit] | [launchpad.org][launchpad], [Bitbucket][bitbucket] and [Github][ubuntumategithub] |
 | [Zorin][zorin] | [Bazaar][zorinbazaar] | [launchpad.net][launchpad] |
+| [LXLE][lxle]   | TODO | TODO |
+| [PuppyLinux][puppy] | TODO | TODO |
+| [Slackware][slackware] | TODO | TODO |
 
 ## BSD
 
 | Operating System | Version Control System | Hosting Location |
-| --- | --- | --- |
+| ---------------- | ---------------------- | ---------------- |
 | [FreeBSD][freebsd] | Git and [SVN][freebsdsvn] | [GitHub][freebsdgit] and [freebsd.org][freebsd] |
 | [GhostBSD][ghostbsd] | Git | [GitHub][ghostbsdgit] |
 | [OpenBSD][openbsd] | [CVS][openbsdcvs] | [openbsd.org][openbsd] |
@@ -32,7 +35,8 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 | [NetBSD][netbsd] | [CVS][netbsdcvs] | [netbsd.org][netbsd] |
 
 
-## TO-DOs
+## TODOs
+
 [distrowatch]: https://distrowatch.com/dwres.php?resource=popularity
 [kernel]: https://www.kernel.org/
 [kernelgit]: https://git.kernel.org/cgit/
@@ -72,6 +76,10 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 [ubuntumategit]: https://bitbucket.org/ubuntu-mate/
 [bitbucket]: https://bitbucket.org/
 [ubuntumategithub]: https://github.com/mate-desktop/
+[lxle]: http://lxle.net/
+[puppy]: http://puppylinux.org/
+[slackware]: http://www.slackware.com/
+
 [freebsd]: https://www.freebsd.org/
 [freebsdgit]: https://github.com/freebsd
 [freebsdsvn]: https://svnweb.freebsd.org/
