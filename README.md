@@ -26,7 +26,7 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 
 | Operating System | Version Control System | Hosting Location |
 | ---------------- | ---------------------- | ---------------- |
-| [FreeBSD][freebsd] | Git and SVN | [GitHub][freebsdgit], [freebsd.org][freebsdsvn] |
+| [FreeBSD][freebsd] | Git, SVN | [GitHub][freebsdgit], [freebsd.org][freebsdsvn] |
 | [GhostBSD][ghostbsd] | Git | [GitHub][ghostbsdgit] |
 | [MidnightBSD][midnightbsd] | CVS | [midnightbsd.org][midnightbsdcvs] |
 | [NetBSD][netbsd] | CVS | [netbsd.org][netbsdcvs] |
