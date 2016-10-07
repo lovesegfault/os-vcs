@@ -14,11 +14,12 @@ as listed on [DistroWatch][distrowatch].
 | [Arch][arch] | Git, SVN | [archlinux.org][arch] ([Git][archgit], [SVN][archsvn]) |
 | [Bodhi Linux][bodhi] | Git | Various GitHub repos listen on [bodhilinux.com][bodhisrc] |
 | [CentOS][centos] | Git | [centos.org][centosgit] |
+| [ClearOS][clear] | Git, SVN (legacy) | [GitHub][cleargithub], [clearfoundation.com][clearsvn] |
 | [Debian][debian] | Git | [debian.org][debiangit] |
 | [Deepin][deepin] | Git | [deepin.io][deepingit], [GitHub mirror][deepingithub] |
 | [Elementary][elementary] | Bazaar | [Launchpad][elementarybazaar] |
 | [Fedora][fedora] | Git | [fedoraproject.org][fedoragit] |
-| [Gentoo][gentoo] | Git, CVS | [gentoo.org][gentoogit], [GitHub mirror][gentoogithub] |
+| [Gentoo][gentoo] | Git, CVS (legacy) | [gentoo.org][gentoogit], [GitHub mirror][gentoogithub], [gentoo.org (CVS)][gentoocvs] |
 | [Kali][kali] | Git | [kali.org][kaligit] |
 | [KaOS][kaos] | Git | [GitHub][kaosgithub] |
 | [Linux Lite][lite] | Git | [GitHub][litegithub]
@@ -62,6 +63,7 @@ as listed on [DistroWatch][distrowatch].
 *   [Simplicity Linux][simplicity]
 *   [Slackware][slackware]
 *   [SparkyLinux][sparky]
+*   [Ultimate Edition][ultimate]
 
 [kernel]: https://www.kernel.org/
 [kernelgit]: https://git.kernel.org/cgit/
@@ -81,6 +83,9 @@ as listed on [DistroWatch][distrowatch].
 [bodhisrc]: http://www.bodhilinux.com/w/source-code/
 [centos]: https://www.centos.org/
 [centosgit]: https://git.centos.org/project/rpms
+[clear]: https://www.clearos.com/
+[cleargithub]: https://github.com/clearos
+[clearsvn]: http://code.clearfoundation.com/svn/
 [cub]: https://cublinux.com/
 [debian]: https://www.debian.org/
 [deepin]: https://www.deepin.org/
@@ -94,6 +99,7 @@ as listed on [DistroWatch][distrowatch].
 [gentoo]: https://www.gentoo.org/
 [gentoogit]: https://gitweb.gentoo.org/
 [gentoogithub]: https://github.com/gentoo/
+[gentoocvs]: https://sources.gentoo.org/cgi-bin/viewvc.cgi
 [kali]: https://www.kali.org/
 [kaligit]: http://git.kali.org/gitweb/
 [kaos]: https://kaosx.us/
@@ -138,6 +144,7 @@ as listed on [DistroWatch][distrowatch].
 [ubuntumatebazaar]: https://launchpad.net/ubuntu-mate/
 [ubuntumategit]: https://bitbucket.org/ubuntu-mate/
 [ubuntumategithub]: https://github.com/mate-desktop/
+[ultimate]: http://ultimateedition.info/
 [xubuntu]: http://xubuntu.org/
 [xubuntubazaar]: https://launchpad.net/~xubuntu-council
 [zorin]: http://zorinos.com/
