@@ -7,18 +7,21 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 | ---------------- | ---------------------- | ---------------- |
 | [Android-x86][androidx86] | Git | [Sourceforge][androidx86git] |
 | [Antergos][antergos] | Git | [GitHub][antergosgithub] |
+| [antiX][antix] | Git | [Sourceforge][antixgit] |
 | [Arch][arch] | Git, SVN | [archlinux.org][arch] ([Git][archgit], [SVN][archsvn]) |
 | [CentOS][centos] | Git | [centos.org][centosgit] |
 | [Debian][debian] | Git | [debian.org][debiangit] |
 | [Deepin][deepin] | Git | [deepin.io][deepingit], [GitHub mirror][deepingithub] |
 | [Elementary][elementary] | Bazaar | [Launchpad][elementarybazaar] |
 | [Fedora][fedora] | Git | [fedoraproject.org][fedoragit] |
+| [Kali][kali] | Git | [kali.org][kaligit]
 | [Linux Lite][lite] | Git | [GitHub][litegithub]
 | [Lubuntu][lubuntu] | Bazaar | [Lauchpad][lubuntubazaar] |
 | [Mangeia][mangeia] | Git | [mangeia.org][mangeiagit] |
 | [Manjaro][manjaro] | Git | [GitHub][manjarogit] |
 | [Mint][mint] | Git | [GitHub][mintgit] |
 | [openSUSE][opensuse] | Git | [GitHub][opensusegit] |
+| [Tails][tails] | Git | [immerda.ch][tailsgit]
 | [Ubuntu][ubuntu] | Bazaar | [Launchpad][ubuntubazaar] |
 | [Ubuntu Mate][ubuntumate] | Bazaar, Git | [Launchpad][ubuntumatebazaar], [Bitbucket][ubuntumategit], [GitHub][ubuntumategithub] |
 | [Zorin][zorin] | Bazaar | [Launchpad][zorinbazaar] |
@@ -50,6 +53,8 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 [androidx86git]: https://sourceforge.net/p/android-x86/_list/git
 [antergos]: https://antergos.com/
 [antergosgithub]: https://github.com/antergos
+[antix]: http://antix.mepis.org/index.php?title=Main_Page
+[antixgit]: https://sourceforge.net/p/antix-linux/code/ci/master/tree/
 [arch]: https://www.archlinux.org/
 [archgit]: https://git.archlinux.org/
 [archsvn]: https://www.archlinux.org/svn/
@@ -64,6 +69,8 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 [elementarybazaar]: https://launchpad.net/elementary
 [fedora]: https://getfedora.org/
 [fedoragit]: http://pkgs.fedoraproject.org/cgit/rpms/
+[kali]: https://www.kali.org/
+[kaligit]: http://git.kali.org/gitweb/
 [lite]: https://www.linuxliteos.com/
 [litegithub]: https://github.com/linuxlite
 [lubuntu]: http://lubuntu.me/
@@ -80,6 +87,8 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 [pclinuxos]: http://www.pclinuxos.com/
 [puppy]: http://puppylinux.org/
 [slackware]: http://www.slackware.com/
+[tails]: https://tails.boum.org/
+[tailsgit]: https://git-tails.immerda.ch/tails/
 [ubuntu]: https://www.ubuntu.com/
 [ubuntubazaar]: https://launchpad.net/ubuntu
 [ubuntumate]: https://ubuntu-mate.org/
