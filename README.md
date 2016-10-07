@@ -12,6 +12,7 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 | [Deepin][deepin] | Git | [deepin.io][deepingit], [GitHub mirror][deepingithub] |
 | [Elementary][elementary] | Bazaar | [Launchpad][elementarybazaar] |
 | [Fedora][fedora] | Git | [fedoraproject.org][fedoragit] |
+| [Linux Lite][lite] | Git | [GitHub][litegithub]
 | [Lubuntu][lubuntu] | Bazaar | [Lauchpad][lubuntubazaar] |
 | [Mangeia][mangeia] | Git | [mangeia.org][mangeiagit] |
 | [Manjaro][manjaro] | Git | [GitHub][manjarogit] |
@@ -60,6 +61,8 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 [elementarybazaar]: https://launchpad.net/elementary
 [fedora]: https://getfedora.org/
 [fedoragit]: http://pkgs.fedoraproject.org/cgit/rpms/
+[lite]: https://www.linuxliteos.com/
+[litegithub]: https://github.com/linuxlite
 [lubuntu]: http://lubuntu.me/
 [lubuntubazaar]: https://launchpad.net/~lxde
 [lxle]: http://lxle.net/
