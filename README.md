@@ -12,19 +12,13 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 | [Deepin][deepin] | Git | [deepin.io][deepingit], [GitHub mirror][deepingithub] |
 | [Elementary][elementary] | Bazaar | [Launchpad][elementarybazaar] |
 | [Fedora][fedora] | Git | [fedoraproject.org][fedoragit] |
-| [LXLE][lxle]   | TODO | TODO |
 | [Mangeia][mangeia] | Git | [mangeia.org][mangeiagit] |
 | [Manjaro][manjaro] | Git | [GitHub][manjarogit] |
 | [Mint][mint] | Git | [GitHub][mintgit] |
 | [openSUSE][opensuse] | Git | [GitHub][opensusegit] |
-| [PCLinuxOS][pclinuxos] | TODO | TODO |
-| [PuppyLinux][puppy] | TODO | TODO |
-| [Slackware][slackware] | TODO | TODO |
 | [Ubuntu][ubuntu] | Bazaar | [Launchpad][ubuntubazaar] |
 | [Ubuntu Mate][ubuntumate] | Bazaar, Git | [Launchpad][ubuntumatebazaar], [Bitbucket][ubuntumategit], [Github][ubuntumategithub] |
 | [Zorin][zorin] | Bazaar | [Launchpad][zorinbazaar] |
-
-
 
 ## BSD
 
@@ -39,6 +33,11 @@ The [Linux kernel][kernel], as is well known, uses Git for its version control s
 
 
 ## TODOs
+
+*   [LXLE][lxle]
+*   [PCLinuxOS][pclinuxos]
+*   [PuppyLinux][puppy]
+*   [Slackware][slackware]
 
 [kernel]: https://www.kernel.org/
 [kernelgit]: https://git.kernel.org/cgit/
