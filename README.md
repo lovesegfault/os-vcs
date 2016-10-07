@@ -1,7 +1,10 @@
 # Operating Systems and their VCSs
 
 ## Linux
-The [Linux kernel][kernel] uses Git for its version control system (VCS), in fact that was one of the main reasons Git was created in the first place. Currently, the repository is hosted on [kernel.org][kernelgit]. Now, which VCSs the distributions use is another story. This is a list for the 50 most popular ones as listed on [DistroWatch][distrowatch].
+The [Linux kernel][kernel] uses Git for its version control system (VCS).
+Currently, the repository is hosted on [kernel.org][kernelgit]. Now, which VCSs
+the distributions use is another story. This is a list for the most popular ones
+as listed on [DistroWatch][distrowatch].
 
 | Operating System | Version Control System | Hosting Location |
 | ---------------- | ---------------------- | ---------------- |
