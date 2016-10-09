@@ -36,7 +36,7 @@ as listed on [DistroWatch][distrowatch].
 | [Solus][solus] | Git | [solus-project.com][solusgit] |
 | [Tails][tails] | Git | [immerda.ch][tailsgit]
 | [Ubuntu][ubuntu] | Bazaar | [Launchpad][ubuntubazaar] |
-| [Ubuntu Mate][ubuntumate] | Bazaar, Git | [Launchpad][ubuntumatebazaar], [Bitbucket][ubuntumategit], [GitHub][ubuntumategithub] |
+| [Ubuntu Mate][ubuntumate] | Bazaar, Git | [Launchpad][ubuntumatebazaar], [Bitbucket][ubuntumategit] |
 | [Xubuntu][xubuntu] | Bazaar | [Launchpad][xubuntubazaar] |
 | [Zorin][zorin] | Bazaar | [Launchpad][zorinbazaar] |
 
@@ -145,7 +145,6 @@ as listed on [DistroWatch][distrowatch].
 [ubuntumate]: https://ubuntu-mate.org/
 [ubuntumatebazaar]: https://launchpad.net/ubuntu-mate/
 [ubuntumategit]: https://bitbucket.org/ubuntu-mate/
-[ubuntumategithub]: https://github.com/mate-desktop/
 [ultimate]: http://ultimateedition.info/
 [xubuntu]: http://xubuntu.org/
 [xubuntubazaar]: https://launchpad.net/~xubuntu-council
